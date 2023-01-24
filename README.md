@@ -3,4 +3,4 @@ android_hello_world
 
 Hello World Android App
 
-<img src="http://i.imgur.com/dio0DXF.png" width="450" />
+<img src="https://i.imgur.com/2YxYsvt.png" width="450" />
