@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HelloWorldDemo</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">HelloWorldLordHater</string>
+    <string name="hello_world">Hello world! press that button to help me catch Wander!</string>
     <string name="menu_settings">Settings</string>
+    <string name="button">button</string>
+    <string name="hater">hater</string>
 
 </resources>
